@@ -1,0 +1,70 @@
+// user1 table insert values
+insert into user1 values('NM45698701',654.21);
+insert into user1 values('NM89641202',521.22);
+insert into user1 values('NM56320103',214.55);
+insert into user1 values('NM78964104',315.33);
+insert into user1 values('NM63201405',630.78);
+
+// station table insert values
+insert into station values('01','RR Nagar','Near RR Nagar Arch Juntion');
+insert into station values('02','Nayandahalli','On Mysore Road Opposite Apartment');
+insert into station values('03','Mysore Road','Ring Road-Mysore Road Junction');
+insert into station values('04','Deepanjali Nagar','WOC Road Junction');
+insert into station values('05','Attigupe','Vijayanagar Junction'); 
+
+//route table insert values
+insert into route values('R1',5);
+insert into route values('R2',10);
+insert into route values('R3',15);
+insert into route values('R4',20);
+
+
+// department values
+insert into department values(01,'LocoPilot','1234567801','TrainDepot');
+insert into department values(02,'TicketCounter','9876543202','RR Nagar');
+insert into department values(03,'StationManager','9632587403','Mysore Road');
+insert into department values(04,'Security','2589631404','Attigupe');
+insert into department values(05,'HR','0147852305','Nayandahalli');
+
+// schedule table 
+insert into schedule values(01,'ET001','0630');
+insert into schedule values(02,'ET001','0730');
+insert into schedule values(03,'ET002','0930');
+insert into schedule values(04,'ET002','1030');
+
+
+// employee insert values
+insert into employee values('1234567801','Arun',7896541203,02,15000,'03');
+insert into employee values('9876543202','Suresh',9606214427,04,16000,'02');
+insert into employee values('9632587403','Sidharth',9482390336,04,25000,'04');
+insert into employee values('2589631404','Venkat',6362401804,03,15000,'05');
+insert into employee values('0147852305','Likhith',7896541203,01,5000,'01');
+insert into employee values('0144772806','ram',2516846486,04,10000,'01');
+insert into employee values('8368687368','jo',6977586231,03,8000,'02');
+
+//values for train 
+insert into train values('ET001','01','05');
+insert into train values('ET002','05','01');
+
+//travels from values
+insert into travels_from values('NM45698701','01','03',10);
+insert into travels_from values('NM89641202','03','04',5);
+insert into travels_from values('NM56320103','01','05',20);
+insert into travels_from values('NM78964104','02','03',5);
+insert into travels_from values('NM63201405','05','01',20);
+
+// routes table values
+insert into routes values('R1','ET001',01);
+insert into routes values('R2','ET002',03);
+insert into routes values('R3','ET001',02);
+insert into routes values('R4','ET002',04);
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,3 @@
+select * from employee e,department d where e.ssn=d.mgr_ssn and e.d_no=4;
+select * from employee where salary>10000;
+select * from user1 where card_balance<500.00;
