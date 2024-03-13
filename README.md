@@ -17,6 +17,7 @@ Text Input: Provides a text input box for users to input queries or commands to 
 Function Buttons: Offers buttons for update, insert, delete, display, and exit functionalities, allowing users to interact with the system conveniently.
 
 Technologies Used:
+
 Python: Utilized as the primary programming language for application development.
 
 Tkinter: Employed for building the graphical user interface, facilitating seamless interaction with the application.
