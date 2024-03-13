@@ -18,7 +18,9 @@ Function Buttons: Offers buttons for update, insert, delete, display, and exit f
 
 Technologies Used:
 Python: Utilized as the primary programming language for application development.
+
 Tkinter: Employed for building the graphical user interface, facilitating seamless interaction with the application.
+
 PIL (Python Imaging Library): Integrated for image handling and display purposes, enhancing the visual presentation of the application.
 PostgreSQL: Acts as the backend database system, enabling robust data management capabilities.
 
