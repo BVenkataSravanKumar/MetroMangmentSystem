@@ -94,6 +94,6 @@
 Feel free to reach out or connect for collaboration:  
 
 - **💼 GitHub**: [bvenkatasravanakumar](https://github.com/BVENKATASRAVANAKUMAR)  
-- **📧 Email**: your-venkatsravankumar2001@gmail.com  
+- **📧 Email**: venkatsravankumar2001@gmail.com  
 
 ---
